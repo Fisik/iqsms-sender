@@ -1,4 +1,3 @@
-from iqsms import sendSms, getSenders
 from gate import Gate
 
 sender = Gate(api_login = 'YOURLOGIN', api_password = 'YOURPASSWORD');
